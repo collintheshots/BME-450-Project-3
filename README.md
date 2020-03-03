@@ -21,4 +21,26 @@ The result of this code is the colorful map of the selected region.
 
 ![Plotting SeisMap](https://github.com/collintheshots/BME-450-Project-3/blob/master/Seismic%20Plot.png?raw=true)
 
+Across what geographic area are you able to observe earthquake data in this map? Why do you see most of the earthquakes in that area? 
+
+The bounding box we drew was meant to encompass the Juan de Fuca Plate. This is apparent because we can see on the graph I created the distinct Blanco Fracture Zone and Gorda Ridge.
+
+![Juan de Fuca](https://github.com/collintheshots/BME-450-Project-3/blob/master/Page_092_Figure_1-1.jpg?raw=true)
+
+We see a lot of earthquakes in this area because the Juan de Fuca plate is subducting underneath the North American plate in the Cascadia Subduction Zone. This means that as the Juan de Fuca plate slides into the mantle, it catches on the North American plate and builds up pressure which is released in the form of earthquakes.
+
+What is the range of earthquake size (magnitude) in these data? What is the average earthquake size in this area?
+
+We can see that the earthquakes range from very small up to 6.5 during this time period. Our data has been bounded to 2.5 at the lower end, as set per instructions from the USGS earthquake catalog. The average earthquake magnitude is 3.24
+
+![maxminmean](https://github.com/collintheshots/BME-450-Project-3/blob/master/magnitudeearth.png?raw=true)
+
+Map the earthquakes in April 2015(include this map in your report). Where are those earthquakes mostly located? What event can you link these earthquakes to? 
+
+![SeisMap April 2015](https://github.com/collintheshots/BME-450-Project-3/blob/master/apr2015quakes.png?raw=true)
+
+Most of these earthquakes are located on the southern end of the Juan de Fuca Plate. This is due to the eruption of Axial Seamount on April 23rd, 2015, around 2230. The eruption created a release of earthquakes in the region.
+
+![Axial Seamount](https://github.com/collintheshots/BME-450-Project-3/blob/master/300px-WestcoastSeaplates.svg.png?raw=true)
+
 
