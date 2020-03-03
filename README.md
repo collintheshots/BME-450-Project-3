@@ -9,4 +9,4 @@ I got my data by going to the USGS Earthquake Catalog and selecting earthquakes 
 
 I used some aspects of previous projects to properly import my data into jupyter notebook from the GitHub urls. This was done using Pandas to read and grab data from my csv files on GitHub. I needed to read the time, magnitude, latitude, and longitude data from the imported USGS csv files. Then, after importing the Matlab plotting library (matplotlib), I was able to graph the earthquake magnitude vs time during this 2010 to now time period.
 
-![# Magnitude vs Time](https://github.com/collintheshots/BME-450-Project-3/blob/master/magvstime.png?raw=true)
+![Magnitude vs Time](https://github.com/collintheshots/BME-450-Project-3/blob/master/magvstime.png?raw=true)
