@@ -10,3 +10,7 @@ I got my data by going to the USGS Earthquake Catalog and selecting earthquakes 
 I used some aspects of previous projects to properly import my data into jupyter notebook from the GitHub urls. This was done using Pandas to read and grab data from my csv files on GitHub. I needed to read the time, magnitude, latitude, and longitude data from the imported USGS csv files. Then, after importing the Matlab plotting library (matplotlib), I was able to graph the earthquake magnitude vs time during this 2010 to now time period.
 
 ![Magnitude vs Time](https://github.com/collintheshots/BME-450-Project-3/blob/master/magvstime.png?raw=true)
+
+This data shows that there weren't many earthquakes greater than 6 and none above 7 during this time period in this region.
+
+Then, I had to find a way to graph the data points on a map. Luckily, an online source had already done that and I followed their instructions and got a map of the region I selected on Open Street Map. I was then able to read the file and plot. The key to getting the datapoints into different sizes and colors is the for loop with if statements. It reads the magnitude of each data point and if the magnitude is bigger than a certain number, then it plots the points with my chosen point size and color. Transparency can be adjusted as well.
