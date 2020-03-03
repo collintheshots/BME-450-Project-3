@@ -44,3 +44,8 @@ Most of these earthquakes are located on the southern end of the Juan de Fuca Pl
 ![Axial Seamount](https://github.com/collintheshots/BME-450-Project-3/blob/master/300px-WestcoastSeaplates.svg.png?raw=true)
 
 
+A divergent boundary is the Gorda Ridge and a transform boundary is the Blanco Fault Zone. This is apparent on the map below:
+
+![Div and Trans](https://github.com/collintheshots/BME-450-Project-3/blob/master/Cascade_Volcanic_Arc.jpg?raw=true)
+
+
