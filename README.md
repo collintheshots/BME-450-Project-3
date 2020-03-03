@@ -19,4 +19,6 @@ Then, I had to find a way to graph the data points on a map. Luckily, an online 
 
 The result of this code is the colorful map of the selected region. 
 
-![Plotting SeisMap](
+![Plotting SeisMap](https://github.com/collintheshots/BME-450-Project-3/blob/master/Seismic%20Plot.png?raw=true)
+
+
