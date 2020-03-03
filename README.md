@@ -14,3 +14,9 @@ I used some aspects of previous projects to properly import my data into jupyter
 This data shows that there weren't many earthquakes greater than 6 and none above 7 during this time period in this region.
 
 Then, I had to find a way to graph the data points on a map. Luckily, an online source had already done that and I followed their instructions and got a map of the region I selected on Open Street Map. I was then able to read the file and plot. The key to getting the datapoints into different sizes and colors is the for loop with if statements. It reads the magnitude of each data point and if the magnitude is bigger than a certain number, then it plots the points with my chosen point size and color. Transparency can be adjusted as well.
+
+![forifelse](https://github.com/collintheshots/BME-450-Project-3/blob/master/forifelse.png?raw=true)
+
+The result of this code is the colorful map of the selected region. 
+
+![Plotting SeisMap](
